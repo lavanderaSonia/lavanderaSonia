@@ -13,7 +13,7 @@ I have been working in different projects using Vue and React as well as another
 
 - Languages
 
-  <img alt="javascript logo" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>
+  <img alt="javascript logo" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30" href="#"/>
   <img alt="typescript logo" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/>
 
 - Frameworks / libraries
